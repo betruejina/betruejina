@@ -1,7 +1,7 @@
-### 진아 JinA
-I'm studying about Backend programming at Daedeok SW Meister HighSchool!
+### 진아 JinA 🥰
+I'm studying about Backend programming at Daedeok SW Meister HighSchool🏫!
 
-### Studying Language
+### Studying Language 🐤
 - C/C++
 - JAVA
 
