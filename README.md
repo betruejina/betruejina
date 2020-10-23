@@ -5,7 +5,7 @@ I'm studying about Backend programming at Daedeok SW Meister HighSchool!
 - C/C++
 - JAVA
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beturejina)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betruejina)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **betruejina/betruejina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
