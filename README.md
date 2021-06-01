@@ -4,6 +4,7 @@ I'm studying about Backend programming at Daedeok SW Meister HighSchool🏫!
 ### Studying Language 🐤
 - C/C++
 - JAVA/spring-boot
+- SQL
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=betruejina)](https://github.com/anuraghazra/github-readme-stats)
 <!--
