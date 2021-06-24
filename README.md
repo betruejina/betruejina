@@ -2,7 +2,7 @@
 I'm studying about Backend programming at Daedeok SW Meister HighSchool🏫!
 
 ### Studying Language 🐤
-- C/C++
+- C
 - JAVA/spring-boot
 - SQL
 
