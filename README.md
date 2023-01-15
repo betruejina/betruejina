@@ -1,5 +1,5 @@
 ### 진아 JinA 🥰
-I'm studying about Backend programming at Daedeok SW Meister HighSchool🏫!
+I'm studying about Backend programming!
 
 ### Studying Language 🐤
 - JAVA/spring-boot
